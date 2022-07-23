@@ -25,3 +25,5 @@ document.write('resultado dado 2' + pruebadado2);
 
 // recorrer todo el elemneto contando los numeros que aparecen
 // acumularlo en una variable
+
+// para obtener número de apariciones de dicha suma, repitiendo 50 veces esta operación.
